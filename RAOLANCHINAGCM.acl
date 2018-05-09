@@ -27,7 +27,7 @@
 (^|\.)alt6-mtalk\.google\.*$
 (^|\.)alt7-mtalk\.google\.*$
 (^|\.)alt8-mtalk\.google\.*$
-(^|\.)www\.google\.*$
+(^|\.)google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
 
 # 局域网大陆直连
 0.0.0.0/8
