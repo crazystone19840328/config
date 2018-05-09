@@ -27,7 +27,7 @@
 (^|\.)alt6-mtalk.google.com$
 (^|\.)alt7-mtalk.google.com$
 (^|\.)alt8-mtalk.google.com$
-(^|\.)google.com*$
+(^|\.)google.com/*$
 
 # 局域网大陆直连
 0.0.0.0/8
