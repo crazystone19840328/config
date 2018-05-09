@@ -1,7 +1,24 @@
+#**********************************************************************
+#2018年5月8日
+
+#局域网大陆GCM直连
+
+# 参数解释：
+# [proxy_all] 默认代理-本规则使用
+# [bypass_all] 默认直连
+# [outbound_block_list] 禁止访问列表 在28行
+# [bypass_list] 直连列表 在6816多行
+# [proxy_list] 代理列表 在1210多行
+# [remote_dns] 远程 DNS 解析 -不加使用本地 DNS
+#**********************************************************************
+
 [proxy_all]
+#默认代理全部
 
 [bypass_list]
+#直连列表
 
+#GCM直连
 ^(.*\.)?mtalk4\.google\.com$
 ^(.*\.)?alt1-mtalk\.google\.com$
 ^(.*\.)?alt2-mtalk\.google\.com$
@@ -12,6 +29,7 @@
 ^(.*\.)?alt7-mtalk\.google\.com$
 ^(.*\.)?alt7-mtalk\.google\.com$
 ^(.*\.)?alt8-mtalk\.google\.com$
+
 
 ^(.*\.)?mtalk4.google.com$
 ^(.*\.)?alt1-mtalk.google.com$
@@ -24,6 +42,7 @@
 ^(.*\.)?alt7-mtalk.google.com$
 ^(.*\.)?alt8-mtalk.google.com$
 
+#局域网大陆直连
 0.0.0.0/8
 10.0.0.0/8
 100.64.0.0/10
