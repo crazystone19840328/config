@@ -18,16 +18,16 @@
 # 直连列表
 
 # GCM直连
-(^|\.)mtalk4\.google\.*$
-(^|\.)alt1-mtalk\.google\.*$
-(^|\.)alt2-mtalk\.google\.*$
-(^|\.)alt3-mtalk\.google\.*$
-(^|\.)alt4-mtalk\.google\.*$
-(^|\.)alt5-mtalk\.google\.*$
-(^|\.)alt6-mtalk\.google\.*$
-(^|\.)alt7-mtalk\.google\.*$
-(^|\.)alt8-mtalk\.google\.*$
-(^|\.)google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+(^|\.)mtalk4\.google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+(^|\.)alt1-mtalk\.google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+(^|\.)alt2-mtalk\.google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+(^|\.)alt3-mtalk\.google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+(^|\.)alt4-mtalk\.google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+(^|\.)alt5-mtalk\.google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+(^|\.)alt6-mtalk\.google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+(^|\.)alt7-mtalk\.google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+(^|\.)alt8-mtalk\.google(\.(?!-)[a-zA-Z0-9-]{1,63}(?<!-)){1,2}$
+
 
 # 局域网大陆直连
 0.0.0.0/8
