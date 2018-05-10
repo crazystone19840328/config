@@ -1,38 +1,6 @@
-#**********************************************************************
-# 2018年5月8日
-
-# 局域网大陆GCM直连
-
-# 参数解释：
-# [proxy_all] 默认代理-本规则使用
-# [bypass_all] 直连
-# [bypass_list] 直连列表
-# [proxy_list] 代理列表
-# [remote_dns] 远程DNS解析
-#**********************************************************************
-
 [proxy_all]
-# 默认代理全部
 
 [bypass_list]
-# 直连列表
-
-# GCM直连
-
-# mtalk4.google.com
-# alt1-mtalk.google.com
-# alt2-mtalk.google.com
-# alt3-mtalk.google.com
-# alt4-mtalk.google.com
-# alt5-mtalk.google.com
-# alt6-mtalk.google.com
-# alt7-mtalk.google.com
-# alt8-mtalk.google.com
-
-
-# 局域网大陆直连
-
-
 1.0.1.0/24
 1.0.2.0/23
 1.0.8.0/21
