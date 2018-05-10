@@ -4,5 +4,5 @@
 [bypass_list]
 
 (^|\.)google\.com$
-^(.*\.)?*\.baidu\.$
-^(.*\.)?baidu\.$
+(^|\.)twitter\.com$
+(^|\.)coolapk\.com$
