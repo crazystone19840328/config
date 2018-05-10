@@ -21,3 +21,5 @@
 (^|\.)gcm-preprod\.l\.google\.com$
 (^|\.)gcm-preprod\.googleapis\.com$
 (^|\.)gcm-http\.googleapis\.com$
+
+(^|\.)twitter\.com$
