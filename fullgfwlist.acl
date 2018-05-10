@@ -5,6 +5,8 @@
 [proxy_list]
 
 (^|\.)packagingoftheworld\.com$
+(^|\.)github\.com$
+
 
 # MyList
 (^|\.)bit\.no\.com$
