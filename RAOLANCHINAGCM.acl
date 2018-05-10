@@ -2,5 +2,5 @@
 
 
 [bypass_list]
-baidu.com
-google.com
+(^|\.)baidu\.com$
+(^|\.)google\.com$
