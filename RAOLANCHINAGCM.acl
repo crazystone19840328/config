@@ -1,1 +1,6 @@
 [proxy_all]
+
+
+[bypass_list]
+baidu.com
+google.com
