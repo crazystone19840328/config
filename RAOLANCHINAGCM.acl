@@ -13,3 +13,11 @@
 (^|\.)alt6-mtalk\.google\.com$
 (^|\.)alt7-mtalk\.google\.com$
 (^|\.)alt8-mtalk\.google\.com$
+
+(^|\.)mobile-gtalk\.l\.google\.com$
+(^|\.)gcm\.googleapis\.com$
+(^|\.)gcm\.l\.google\.com$
+(^|\.)gcm-xmpp\.googleapis\.com$
+(^|\.)gcm-preprod\.l\.google\.com$
+(^|\.)gcm-preprod\.googleapis\.com$
+(^|\.)gcm-http\.googleapis\.com$
