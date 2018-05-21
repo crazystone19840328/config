@@ -1,3 +1,7 @@
+# 转载需要注明版权和来源
+# GFWList规则来自于ACL4SSR的fullgfwlist.acl 没有白名单
+# 应用此规则可以解决我的问题(使用SSR时GCM每120秒断开的问题)，感谢ACL4SSR！
+
 [bypass_all]
 ### 默认直连 自己可以自定义
 
@@ -8,9 +12,8 @@
 (^|\.)packagingoftheworld\.com$
 (^|\.)github\.com$
 
-#自己添加结束
 
-# MyList
+# MyList 引用ACL4SSR的fullgfwlist.acl
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
