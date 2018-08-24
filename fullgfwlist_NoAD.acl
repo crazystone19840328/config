@@ -1335,7 +1335,7 @@
 
 
 
-
+[proxy_list]
 
 # MyList 引用ACL4SSR的fullgfwlist.acl
 (^|\.)apkmirror\.com$
