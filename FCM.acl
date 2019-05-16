@@ -11,9 +11,9 @@
 
 
 # FCM域名直连
-(^|\.)*mtalk\.google\.com$
-(^|\.)google\.com$
-
+(^|\.)mtalk\.google\.com$
+(^|\.)*-mtalk\.google\.com$
+(^|\.)*talk\.google\.com$
 
 
 
