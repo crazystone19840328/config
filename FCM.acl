@@ -11,9 +11,7 @@
 
 
 # FCM域名直连
-(^|\.)mtalk\.google\.com$/5228
-(^|\.)*talk\.google\.com$/5228
-
+(^|\.)*\.googleapis\.com$/5228
 
 
 # 中国国内常见域名关键词直连
