@@ -22,7 +22,7 @@
 [outbound_block_list]
 # 禁止访问列表  以下为去广告
 
-(^|\.)m\.twitter\.com$
+(^|\.)*\.twitter\.com$
 (^|\.)*\.baidu\.com$
 # 广告关键词
 (^|\.)\w*admarvel\w*\.\w*$
