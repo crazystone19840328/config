@@ -6,7 +6,7 @@
 # 禁止访问列表
 
 (^|\.)*\.twitter\.com$
-
+(^|\.)*mtalk\.google\.com$
 
 
 
