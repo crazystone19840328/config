@@ -10,15 +10,20 @@
 # 自己添加开始
 (^|\.)packagingoftheworld\.com$
 (^|\.)github\.com$
-(^|\.)ssrtool\.com$
-(^|\.)lncn\.org$
 (^|\.)weather\.com$
 (^|\.)esu\.wiki$
 (^|\.)gsamlabs\.com$
 (^|\.)forum\.xda-developers\.com$
 (^|\.)behance\.net$
-(^|\.)gudao\.uk$
 
+
+
+
+# 翻墙机场
+(^|\.)ssrtool\.com$
+(^|\.)lncn\.org$
+(^|\.)gudao\.uk$
+(^|\.)ssvip\.cf$
 
 #**********************************************************************
 
