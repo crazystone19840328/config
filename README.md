@@ -1,2 +1,2 @@
-SSR用此ACL去广告FCM直连
-https://raw.githubusercontent.com/crazystone19840328/acl/master/fullgfwlist_NoAD.acl
+clash微信fcm强制代理
+https%3A%2F%2Fraw.githubusercontent.com%2Fcrazystone19840328%2Facl%2Fmaster%2Fclash_custom.ini
