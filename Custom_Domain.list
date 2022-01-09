@@ -1,7 +1,10 @@
-# 自定义域名或关键字
+# 自定义关键字或域名
 
-
+# 关键字
 DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,cv2
+
+
+# 域名
 DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,github.com
