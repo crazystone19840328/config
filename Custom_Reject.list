@@ -7,9 +7,11 @@ DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,wangmeng.baidu.com
 
 
-
 # 自定义拦截
 DOMAIN-KEYWORD,epochtimes
+
+
+# 成人网站拦截
 DOMAIN-KEYWORD,xvideos
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,pornhub
