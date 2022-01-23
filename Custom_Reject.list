@@ -6,3 +6,19 @@ DOMAIN-SUFFIX,yt-adp.ws.126.net
 
 # 自定义拦截
 DOMAIN-KEYWORD,epochtimes
+
+
+# 成人网站拦截
+DOMAIN-KEYWORD,xvideos
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,pornhub
+DOMAIN-KEYWORD,xnxx
+DOMAIN-KEYWORD,ixxx
+DOMAIN-KEYWORD,sex
+DOMAIN-KEYWORD,fuck
+DOMAIN-KEYWORD,xxoo
+DOMAIN-KEYWORD,xxx
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,chaturbate.com
+DOMAIN-SUFFIX,bongacams.com
