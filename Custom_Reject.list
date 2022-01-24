@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,yt-adp.ws.126.net
 
 # 自定义拦截
 DOMAIN-KEYWORD,epochtimes
-DOMAIN-KEYWORD,googlezip
 
 
 # 成人网站拦截
