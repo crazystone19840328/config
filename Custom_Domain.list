@@ -1,9 +1,11 @@
 # 自定义关键字或域名
 
 # 关键字
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,wikipedia
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,bbc
+DOMAIN-KEYWORD,github
 
 
 # 域名
