@@ -3,8 +3,8 @@
 # 关键字
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,wikipedia
 
 
 # 域名
 DOMAIN-SUFFIX,weather.com
-DOMAIN-SUFFIX,raw.githubusercontent.com
