@@ -10,7 +10,7 @@ DOMAIN-KEYWORD,googlezip
 
 
 # 成人网站拦截
-DOMAIN-KEYWORD,xvideos
+;DOMAIN-KEYWORD,xvideos
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,pornhub
 DOMAIN-KEYWORD,xnxx
@@ -23,3 +23,4 @@ DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,bongacams.com
+DOMAIN-KEYWORD,gay
