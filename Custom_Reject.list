@@ -1,17 +1,15 @@
 # 去广告
 
-DOMAIN,ota.googlezip.net
-DOMAIN,ota-cache.googlezip.net
 DOMAIN-KEYWORD,adutp
 DOMAIN-SUFFIX,g.163.com
 DOMAIN-SUFFIX,yt-adp.ws.126.net
 
 
-
 # 自定义拦截
 
+DOMAIN,ota.googlezip.net
+DOMAIN,ota-cache.googlezip.net
 DOMAIN-KEYWORD,epochtimes
-
 
 DOMAIN-KEYWORD,xvideos
 DOMAIN-KEYWORD,porn
