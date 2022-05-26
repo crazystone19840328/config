@@ -1,3 +1,11 @@
 # 自定义拦截
 DOMAIN,ota.googlezip.net
 DOMAIN,ota-cache1.googlezip.net
+
+# Adobe
+DOMAIN,lmlicenses.wip4.adobe.com
+DOMAIN,lm.licenses.adobe.com
+DOMAIN,na1r.services.adobe.com
+DOMAIN,hlrcv.stage.adobe.com
+DOMAIN,practivate.adobe.com
+DOMAIN,activate.adobe.com
