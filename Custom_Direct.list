@@ -1,9 +1,3 @@
-# 订阅后端转换直连
+# 去广告误杀
 
-DOMAIN,api.dler.io
-DOMAIN,subconverter.herokuapp.com
-DOMAIN,sub.maoxiongnet.com
-DOMAIN,subconverter.saraphine.cf
-DOMAIN,sub.mk74.tk
-DOMAIN,api.wcc.best
 DOMAIN-SUFFIX,ctrip.com
