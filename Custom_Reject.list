@@ -1,5 +1,5 @@
 # 自定义拦截
 DOMAIN-KEYWORD,twitter
-;DOMAIN-KEYWORD,facebook
-;DOMAIN-KEYWORD,Instagram
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,Instagram
 DOMAIN-KEYWORD,Tumblr
