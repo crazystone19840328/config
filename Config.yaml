@@ -8,7 +8,7 @@ external-controller: :9090
 proxy-providers:
 Airport: 
     type: http
-    url:"https://api.dler.io/sub?target=clash&url=https%3A%2F%2Ffeiniaoyun.xyz%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D8eece517c3a66db1bb6e2597c1a2058e&emoji=true&list=true&udp=false&tfo=false&scv=false&fdn=false&sort=false"
+    url: "https://api.dler.io/sub?target=clash&url=https%3A%2F%2Ffeiniaoyun.xyz%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D8eece517c3a66db1bb6e2597c1a2058e&emoji=true&list=true&udp=false&tfo=false&scv=false&fdn=false&sort=false"
     path: ./profiles/Airport.yaml
     interval: 36000
     health-check:
