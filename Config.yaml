@@ -19,7 +19,7 @@ proxy-groups:
   interval: 600
   use: Airport
 
-rule-providers
+rule-providers:
 GoogleFCM:
     behavior: classical 
     type: http
