@@ -1,18 +1,19 @@
+payload:
 # 自定义关键字或域名
 
 
 # 关键字
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,wikipedia
-DOMAIN-KEYWORD,wikimedia
-DOMAIN-KEYWORD,bbc
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,cv2
-DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,feiniaoyun
-DOMAIN-KEYWORD,v2ex
-DOMAIN-KEYWORD,Pinterest
+- DOMAIN-KEYWORD,google
+- DOMAIN-KEYWORD,wikipedia
+- DOMAIN-KEYWORD,wikimedia
+- DOMAIN-KEYWORD,bbc
+- DOMAIN-KEYWORD,github
+- DOMAIN-KEYWORD,cv2
+- DOMAIN-KEYWORD,spotify
+- DOMAIN-KEYWORD,feiniaoyun
+- DOMAIN-KEYWORD,v2ex
+- DOMAIN-KEYWORD,Pinterest
 
 
 # 域名
-DOMAIN-SUFFIX,weather.com
+- DOMAIN-SUFFIX,weather.com
