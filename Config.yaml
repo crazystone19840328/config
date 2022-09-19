@@ -8,7 +8,8 @@ external-controller: :9090
 proxy-providers:
 Airport: 
     type: http
-    path: ./profiles/Airport.yml url:"https://feiniaoyun.xyz/api/v1/client/subscribe?token=8eece517c3a66db1bb6e2597c1a2058e"
+    path: ./profiles/Airport.yaml
+    url:"https://feiniaoyun.xyz/api/v1/client/subscribe?token=8eece517c3a66db1bb6e2597c1a2058e"
     interval: 36000
     health-check:
     enable: true
