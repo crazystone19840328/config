@@ -1,0 +1,65 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+
+proxy-providers:
+Airport: 
+    type: http
+    path: ./profiles/Airport.yml url:"https://feiniaoyun.xyz/api/v1/client/subscribe?token=8eece517c3a66db1bb6e2597c1a2058e"
+    interval: 36000
+
+
+proxy-groups:
+- name: 🚀高速
+  type: url-test
+  url: http://www.google.com/generate_204
+  interval: 600
+  use: Airport
+
+rule-providers
+GoogleFCM:
+    behavior: classical 
+    type: http
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/GoogleFCM.yaml"
+    interval: 86400
+    path: ./rules/GoogleFCM.yaml
+    
+    LocalAreaNetwork:
+    behavior: classical
+    type: http
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml"
+    interval: 86400
+    path: ./rules/LocalAreaNetwork.yaml
+    
+Anti-AD:
+    behavior: domain
+    type: http
+    url: "https://anti-ad.net/clash.yaml"
+    interval: 86400
+    path: ./rules/Anti-AD.yaml
+
+ChinaDomain:
+    behavior: classical 
+    type: http
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaDomain.yaml"
+    interval: 86400
+    path: ./rules/ChinaDomain.yaml
+
+Custom-proxy:
+    behavior: classical 
+    type: http
+    url: "https://raw.githubusercontent.com/crazystone19840328/config/master/Custom-proxy.yaml"
+    interval: 86400
+    path: ./rules/Custom-proxy.yaml
+
+rules:
+- RULE-SET,GoogleFCM, DIRECT
+- RULE-SET,LocalAreaNetwork, DIRECT
+- RULE-SET,Anti-AD, REJECT
+- RULE-SET,ChinaDomain, DIRECT
+- RULE-SET,Custom-proxy, DIRECT
+- GEOIP,CN,DIRECT
+- MATCH,proxy,🚀高速
