@@ -13,7 +13,7 @@ Airport:
 
 
 proxy-groups:
-- name: 🚀高速
+- name: "🚀高速"
   type: url-test
   url: http://www.google.com/generate_204
   interval: 600
