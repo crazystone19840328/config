@@ -27,35 +27,35 @@ rule-providers:
 GoogleFCM:
     behavior: classical 
     type: http
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/GoogleFCM.yaml"
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/GoogleFCM.yaml
     interval: 86400
     path: ./profiles/rules/GoogleFCM.yaml
     
     LocalAreaNetwork:
     behavior: classical
     type: http
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml"
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml
     interval: 86400
     path: ./profiles/rules/LocalAreaNetwork.yaml
     
 Anti-AD:
     behavior: domain
     type: http
-    url: "https://anti-ad.net/clash.yaml"
+    url: https://anti-ad.net/clash.yaml
     interval: 86400
     path: ./profiles/rules/Anti-AD.yaml
 
 ChinaDomain:
     behavior: classical 
     type: http
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaDomain.yaml"
+    url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ChinaDomain.yaml
     interval: 86400
     path: ./profiles/rules/ChinaDomain.yaml
 
 Custom-proxy:
     behavior: classical 
     type: http
-    url: "https://raw.githubusercontent.com/crazystone19840328/config/master/Custom-proxy.yaml"
+    url: https://raw.githubusercontent.com/crazystone19840328/config/master/Custom-proxy.yaml
     interval: 86400
     path: ./profiles/rules/Custom-proxy.yaml
 
