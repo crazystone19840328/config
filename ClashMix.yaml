@@ -28,7 +28,7 @@ proxy-providers:
     health-check:
       enable: true
       lazy: true
-      interval: 900
+      interval: 720
       timeout: 20
       url: http://www.google.com/generate_204
 
@@ -40,7 +40,7 @@ proxy-providers:
     health-check:
       enable: true
       lazy: true
-      interval: 1200
+      interval: 900
       timeout: 5
       url: http://www.google.com/generate_204
 
