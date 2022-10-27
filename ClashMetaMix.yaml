@@ -52,7 +52,7 @@ proxy-groups:
   - name: 🛠️故障修复
     type: fallback
     url: http://www.google.com/generate_204
-    interval: 240
+    interval: 360
     proxies:
       - ❤️选择
       - 🚀高速
