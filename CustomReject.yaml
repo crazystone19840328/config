@@ -8,8 +8,8 @@ payload:
 
 
 # pixel更新拦截
-  - DOMAIN,ota.googlezip.net
-  - DOMAIN,ota-cache1.googlezip.net
+#  - DOMAIN,ota.googlezip.net
+#  - DOMAIN,ota-cache1.googlezip.net
 
 
 # 成人网站拦截
