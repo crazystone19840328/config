@@ -1,13 +1,14 @@
 payload:
+# Android应用进程名
   - PROCESS-NAME,com.tencent.mm
+  - PROCESS-NAME,com.ss.android.ugc.aweme
+  - PROCESS-NAME,com.ss.android.article.news
+  - PROCESS-NAME,com.coolapk.market
   - PROCESS-NAME,com.xunmeng.pinduoduo
   - PROCESS-NAME,com.taobao.taobao
   - PROCESS-NAME,com.jingdong.app.mall
-  - PROCESS-NAME,com.ss.android.article.news
-  - PROCESS-NAME,com.ss.android.ugc.aweme
   - PROCESS-NAME,com.autonavi.minimap
   - PROCESS-NAME,com.bankcomm.Bankcomm
-  - PROCESS-NAME,com.coolapk.market
   - PROCESS-NAME,com.eg.android.AlipayGphone
   - PROCESS-NAME,com.MobileTicket
   - PROCESS-NAME,com.ss.android.auto
