@@ -4,7 +4,7 @@ payload:
 #  - DOMAIN-KEYWORD,twitter
 #  - DOMAIN-KEYWORD,facebook
 #  - DOMAIN-KEYWORD,Instagram
-#  - DOMAIN-KEYWORD,Tumblr
+  - DOMAIN-KEYWORD,Tumblr
 
 # 成人网站拦截
   - DOMAIN-SUFFIX,xhamster.com
