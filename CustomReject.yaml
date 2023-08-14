@@ -1,10 +1,10 @@
 payload:
 
 # 自定义拦截
-  - DOMAIN-KEYWORD,twitter
-  - DOMAIN-KEYWORD,facebook
-  - DOMAIN-KEYWORD,Instagram
-  - DOMAIN-KEYWORD,Tumblr
+#  - DOMAIN-KEYWORD,twitter
+#  - DOMAIN-KEYWORD,facebook
+#  - DOMAIN-KEYWORD,Instagram
+#  - DOMAIN-KEYWORD,Tumblr
 
 # 成人网站拦截
   - DOMAIN-SUFFIX,xhamster.com
