@@ -1,6 +1,8 @@
 payload:
 # Android应用进程名
   - PROCESS-NAME,com.tencent.mm
+  - PROCESS-NAME,com.ss.android.yumme.video
+  - PROCESS-NAME,com.ss.android.ugc.aweme
   - PROCESS-NAME,com.ss.android.ugc.aweme
   - PROCESS-NAME,com.ss.android.article.news
   - PROCESS-NAME,com.coolapk.market
@@ -14,3 +16,9 @@ payload:
   - PROCESS-NAME,com.ss.android.auto
   - PROCESS-NAME,com.taobao.idlefish
   - PROCESS-NAME,com.zhihu.android
+  - PROCESS-NAME,youqu.android.todesk
+  - PROCESS-NAME,com.unionpay
+  - PROCESS-NAME,com.ss.android.auto
+  - PROCESS-NAME,com.honda.vspAppAndroid
+  - PROCESS-NAME,com.firebear.androil
+  - PROCESS-NAME,com.citiccard.mobilebank
