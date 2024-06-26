@@ -1,1 +1,5 @@
-123
+payload:
+  # 微信走FCM需代理域名
+  - DOMAIN,short.weixin.qq.com
+  - DOMAIN,dns.weixin.qq.com.cn
+  - DOMAIN,long.weixin.qq.com
